@@ -6,7 +6,7 @@ To build the complete assembly of the Computer System
 ## STEPS:
 ## STEP 1:
 The First Step In Assembling A Computer Is To Open The Computer Case. To Open The Case, First Remove The Screws Of The Left Side Cover And Slide The Side Cover
-
+![OUTPUT](./1.png)
 ## STEP 2:
 The Next Step Is To Install A Power Supply. There Are Usually Four Screws That Attach The Power Supply To The Case
 ## STEP 3:
